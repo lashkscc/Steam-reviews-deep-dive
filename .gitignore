@@ -3,3 +3,4 @@ steam-reviews-deep-dive/__init__.py
 tests/__init__.py
 tests/test_steam reviews deep dive.py
 README.rst
+tests/test_steam-reviews-deep-dive.py
